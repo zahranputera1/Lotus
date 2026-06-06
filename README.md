@@ -81,6 +81,5 @@ Zahran Putera Maulana
 
 Mechanical Engineer | Process Automation | Supply Chain & Operations
 
-LinkedIn: [Add LinkedIn URL]
+LinkedIn: [https://www.linkedin.com/in/puteramaulana/]
 
-GitHub: [Add GitHub URL]
